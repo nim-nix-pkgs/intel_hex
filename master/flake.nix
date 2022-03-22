@@ -9,7 +9,7 @@
   
   inputs.src-intel_hex-master.flake = false;
   inputs.src-intel_hex-master.owner = "keyme";
-  inputs.src-intel_hex-master.ref   = "refs/heads/master";
+  inputs.src-intel_hex-master.ref   = "master";
   inputs.src-intel_hex-master.repo  = "nim_intel_hex";
   inputs.src-intel_hex-master.type  = "github";
   
