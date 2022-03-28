@@ -11,7 +11,6 @@
   inputs.src-intel_hex-master.ref   = "refs/heads/master";
   inputs.src-intel_hex-master.owner = "keyme";
   inputs.src-intel_hex-master.repo  = "nim_intel_hex";
-  inputs.src-intel_hex-master.dir   = "";
   inputs.src-intel_hex-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
