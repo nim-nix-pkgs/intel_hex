@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334534,
-        "narHash": "sha256-hl4Smx4fSpuYXtRQWColbsk9EjilapTY/5QChBlOSyE=",
+        "lastModified": 1668748814,
+        "narHash": "sha256-xXVry9aFavq2z4/x1I2dRwcCcD72F1QWzU/uxaBWyqo=",
         "owner": "nim-nix-pkgs",
         "repo": "intel_hex",
-        "rev": "f93d8ccf296f61b9841ae52fa65fe11acc57593a",
+        "rev": "a0d97f7068ca39f9d4c358a16965d2d9319ce83b",
         "type": "github"
       },
       "original": {
